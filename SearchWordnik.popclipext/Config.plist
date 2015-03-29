@@ -7,7 +7,7 @@
 	<key>Extension Name</key>
 	<string>Wordnik</string>
 	<key>Extension Identifier</key>
-	<string>com.lostinapile.popclip.extension.wordnik</string>
+	<string>com.lostinapile.popclipextension.wordnik</string>
 	<key>Extension Description</key>
 	<string>Search Wordnik in a the default web browser with the selected text.</string>
 	<key>Actions</key>
