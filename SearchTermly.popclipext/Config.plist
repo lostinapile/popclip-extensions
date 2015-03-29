@@ -5,7 +5,7 @@
 	<key>Version</key>
 	<integer>1</integer>
 	<key>Extension Name</key>
-	<string>Search Term.ly</string>
+	<string>Term.ly</string>
 	<key>Extension Identifier</key>
 	<string>com.lostinapile.popclip.extension.termly</string>
 	<key>Extension Description</key>
@@ -18,7 +18,7 @@
 			<key>Image File</key>
 			<string>TermlyPopclipIcon.png</string>
 			<key>Title</key>
-			<string>Term.ly</string>
+			<string>Search Term.ly</string>
 		</dict>
 	</array>
 </dict>
