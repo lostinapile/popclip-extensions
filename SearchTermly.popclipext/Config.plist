@@ -7,7 +7,7 @@
 	<key>Extension Name</key>
 	<string>Term.ly</string>
 	<key>Extension Identifier</key>
-	<string>com.lostinapile.popclip.extension.termly</string>
+	<string>com.lostinapile.popclipextension.termly</string>
 	<key>Extension Description</key>
 	<string>Search Term.ly in a the default web browser with the selected text.</string>
 	<key>Actions</key>
