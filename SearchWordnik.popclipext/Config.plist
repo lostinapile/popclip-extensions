@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<integer>1</integer>
+	<key>Extension Name</key>
+	<string>Wordnik</string>
+	<key>Extension Identifier</key>
+	<string>com.lostinapile.popclip.extension.wordnik</string>
+	<key>Extension Description</key>
+	<string>Search Wordnik in a the default web browser with the selected text.</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>URL</key>
+			<string>https://www.wordnik.com/words/{popclip text}</string>
+			<key>Image File</key>
+			<string>WordnikPopclipIcon.png</string>
+			<key>Title</key>
+			<string>Search Wordnik</string>
+		</dict>
+	</array>
+</dict>
+</plist>
