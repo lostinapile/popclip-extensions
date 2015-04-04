@@ -17,8 +17,6 @@
 			<string>https://www.wordnik.com/words/{popclip text}</string>
 			<key>Image File</key>
 			<string>WordnikPopclipIcon.png</string>
-			<key>Preserve Image Color</key>
-			<boolean>Yes</boolean>
 			<key>Title</key>
 			<string>Search Wordnik</string>
 		</dict>
